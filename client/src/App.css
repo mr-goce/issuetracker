@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 100%;
+}
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.App {
+  text-align: center;
+  
+}
+.navclass{
+  background-color: aqua;
+
+  width: 100%;
+}
+.navFlex{
+  display: flex;
+  justify-content: space-between;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+li {
+  margin: 5px 10px
+}
+a{
+  text-decoration: none;
+}
+.homeView{
+  display: flex;
+  justify-content: space-around;
+}
+.issueItemView{
+  background-color:aqua;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+}

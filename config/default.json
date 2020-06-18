@@ -1,0 +1,4 @@
+{
+    "mongoURL":"mongodb+srv://goce:goce@cluster0-phcwz.mongodb.net/issues?retryWrites=true&w=majority",
+    "jwtSecret":"goce"
+}
